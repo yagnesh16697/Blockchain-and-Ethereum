@@ -12,6 +12,16 @@
 
 ### Miner, Networks, Wallet
 
-## Tools
+### ABI and Bytecode
 
 ### Ethereum Remix
+
+### Private blockchain and Truffle
+
+### Gas Fees/ Gas Limits
+
+### Wei/Gwei
+
+### Keccak256
+
+### Functional Signature
